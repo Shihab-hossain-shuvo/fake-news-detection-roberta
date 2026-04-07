@@ -1,6 +1,5 @@
-# fake-news-detection-roberta
-Leveraging NLP-based Sentiment  Analysis for Early Detectionof PotentiallyMaliciousSocialMedia Content
 # Fake News Detection using RoBERTa and Deep Learning
+Leveraging NLP-based Sentiment  Analysis for Early Detectionof PotentiallyMaliciousSocialMedia Content
 
 ##  Project Overview
 
